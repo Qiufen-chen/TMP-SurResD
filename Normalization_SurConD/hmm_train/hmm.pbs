@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -N hmm
+#PBS -l nodes=8:ppn=32
+#PBS -l walltime=240:00:00  
+#PBS -q cu-1
+#PBS -V
+#PBS -S /bin/bash
+cd $PBS_O_WORKDIR
+NP=`cat $PBS_NODEFILE | wc -l`
+NN=`cat $PBS_NODEFILE | sort | uniq | tee /tmp/nodes.$$ | wc -l`
+cat "$PBS_NODEFILE" |uniq  > /tmp/nodefile.$$
+
+module load pytorch/pytorch-gpu-1.10.0-py37 
+module load python/3.6.10
+python  hmm_train.py > hmm.log

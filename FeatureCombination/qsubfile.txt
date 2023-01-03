@@ -1,0 +1,3 @@
+sbatch oh_hmm_ccm_cn.slurm
+sbatch oh_hmm_ccm.slurm
+sbatch oh_hmm.slurm

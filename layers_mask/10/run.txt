@@ -1,0 +1,2 @@
+sbatch oneohot_hmm_ccm.slurm
+sbatch hmm_ccm.slurm

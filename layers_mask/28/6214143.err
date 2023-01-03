@@ -1,0 +1,1 @@
+/lustre/slurm/spool/slurm/d/job6214143/slurm_script: line 24: 14919 Bus error               python onehot_hmm_ccmpred_train.py > onehot_hmm_ccmpred.log

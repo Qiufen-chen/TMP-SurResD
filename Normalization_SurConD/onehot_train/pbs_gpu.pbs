@@ -1,0 +1,21 @@
+#!/bin/bash
+#PBS -N onehot
+#PBS -l nodes=1:ppn=16
+#PBS -l walltime=120:00:00
+#PBS -W x=GRES:gpu@1
+#PBS -q gpu-2-1
+#PBS -V
+#PBS -S /bin/bash
+
+cd $PBS_O_WORKDIR
+NP=`cat $PBS_NODEFILE | wc -l`
+NN=`cat $PBS_NODEFILE | sort | uniq | tee /tmp/nodes.$$ | wc -l`
+cat "$PBS_NODEFILE" |uniq  > /tmp/nodefile.$$
+
+module load pytorch/pytorch-gpu-1.10.0-py37 
+
+python onehot_train.py  > onehot.log
+
+rm -rf /tmp/nodefile.$$
+echo "Your job is done."
+exit 0

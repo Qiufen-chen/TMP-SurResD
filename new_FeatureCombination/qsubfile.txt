@@ -1,0 +1,8 @@
+sbatch ccm_cn.slurm
+sbatch hmm_ccm_cn.slurm
+sbatch hmm_cn.slurm
+sbatch oh_ccm_cn.slurm
+sbatch oh_cn.slurm
+
+sbatch hmm_ccm.slurm
+sbatch oh_ccm.slurm
