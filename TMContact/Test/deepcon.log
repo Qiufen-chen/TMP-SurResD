@@ -1,0 +1,948 @@
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 09:48:57.315513
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4f35_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 16:58:21.515161
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 16:59:08.414782
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/3cn5_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:01:19.459485
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:01:23.126866
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6rd4_5.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:01:41.194014
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:01:44.437118
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7p14_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:05:52.044464
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:05:55.898315
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5eik_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:09:54.184487
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-22 18:09:57.510365
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/2b0x_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 17:49:03.518608
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 17:49:46.675255
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4ytp_D.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 17:51:47.389399
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 17:51:50.790968
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6c6l_D.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 17:55:06.471819
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 17:55:09.809544
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6rag_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 18:00:19.281269
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 18:00:22.722900
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/1fft_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 18:40:00.957205
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 18:40:04.816952
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6y7f_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 18:52:34.690772
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-23 18:52:38.081114
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6e8j_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-25 05:01:01.722408
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-25 05:01:39.433059
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5c2t_D.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-25 05:02:32.760757
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-25 05:02:36.094729
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5v7p_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-25 05:07:11.213774
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-25 05:07:14.633653
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4uvm_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 05:36:15.949147
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 05:37:01.393139
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5x3x_q.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 06:19:10.162180
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 06:19:13.668532
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6gxc_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 09:48:09.790070
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 09:48:52.137163
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4xxj_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 09:53:18.840490
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 09:53:22.191427
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/3b9w_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 11:19:15.581415
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 11:19:50.785172
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6v2j_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 12:58:04.147210
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 12:58:40.607815
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7c52_M.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 13:02:01.382694
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 13:02:04.868020
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7kra_F.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 13:02:42.711701
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 13:02:46.033418
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6xpd_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 17:03:08.229138
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 17:03:43.414828
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4k1c_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 18:57:51.822958
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 18:58:25.765428
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/2nq2_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 22:24:36.208772
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 22:25:12.415464
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6vx5_E.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 22:42:35.873675
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-27 22:42:39.369828
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7epd_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-28 00:04:40.642225
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-28 00:05:18.068388
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7nyh_N.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-28 14:07:09.283625
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-28 14:07:53.048008
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6w2x_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-28 19:14:03.805512
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-28 19:14:54.704413
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5xls_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 00:12:54.968414
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 00:13:39.111141
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4phz_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 00:16:01.492099
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 00:16:04.858336
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5a63_C.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 00:17:36.338584
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 00:17:39.646428
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/2gfz_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 17:46:19.516471
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 17:47:01.941424
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6f2d_G.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 17:48:52.909269
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 17:48:56.240722
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6r3q_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:19:54.200415
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:19:58.059971
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6s3l_K.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:25:46.060603
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:25:50.081862
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6nsj_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:26:45.531621
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:26:48.915962
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6tt7_1.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:38:08.080284
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 18:38:11.801364
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5jnq_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:06:22.865210
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:07:06.208786
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6pw4_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:17:34.225952
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:17:37.989136
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4lp8_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:23:26.497324
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:23:29.848350
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7kra_C.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:24:24.170635
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 20:24:27.545697
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5jrw_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 21:53:52.772736
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-29 21:54:41.546762
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6wk9_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 00:12:56.530011
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 00:13:37.449552
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6hja_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 01:10:56.825041
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 01:11:00.704148
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4h33_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 02:42:28.061682
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 02:43:10.630162
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6rfq_L.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 02:54:59.735902
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 02:55:03.100303
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/4aq5_C.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 03:46:46.609369
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 03:46:50.344812
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5l25_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 03:59:02.837330
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 03:59:07.304882
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/3q7k_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 04:09:57.299834
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 04:10:00.951043
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6li2_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 18:41:51.913194
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 18:42:34.050678
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7aci_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:34:08.475873
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:34:12.133994
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:34:14.742708
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6hum_C.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:43:24.519124
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:43:27.838022
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6cfw_I.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:43:52.853711
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 19:43:56.086608
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6pgi_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 20:33:17.870034
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 20:33:22.223362
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7cub_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 22:55:30.027750
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 22:56:18.404727
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7ak6_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 23:04:43.991817
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 23:04:47.374498
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7ji3_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 23:05:46.657436
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 23:05:49.959006
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6ysl_G.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 23:19:34.394251
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-30 23:19:38.092555
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/7cmh_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 20:43:55.315039
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 20:44:41.901369
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5iws_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 21:44:04.642253
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 21:44:08.216376
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6bcj_B.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 22:15:27.430317
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 22:15:32.180582
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/5m87_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 23:32:46.079117
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-03-31 23:33:26.557621
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/3zux_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 00:33:44.385856
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 00:33:47.923578
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/6u0o_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 01:11:33.731803
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 01:11:39.391362
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/3mp7_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 01:38:38.150494
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 01:38:42.028937
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..
+
+Build a model of the size of the input (and not bigger)..
+
+Load weights from /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/weights-rdd-covariance.hdf5..
+
+Predict..
+
+Write RR file /lustre/home/qfchen/ContactMap/TMContact/Test/deepcon_result/2f93_A.rr.. 
+Done /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 01:43:07.533561
+Start /lustre/home/qfchen/ContactMap/SurContact/Test/DEEPCON-master/deepcon-covariance/deepcon-covariance.py - 2022-04-01 01:43:10.930565
+
+Read sequence[0] from aln..
+
+Convert aln to covariance matrix.. patience..

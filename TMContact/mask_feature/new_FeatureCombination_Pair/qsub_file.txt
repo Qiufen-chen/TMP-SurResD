@@ -1,0 +1,4 @@
+qsub onehotpair_ccmpred.pbs
+qsub onehotpair_ccmpred_profold.pbs
+qsub onehotpair_profold.pbs
+

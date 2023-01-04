@@ -1,0 +1,9 @@
+onehot_ccmpred_profold_train.py:44: RuntimeWarning: divide by zero encountered in float_scalars
+  r_2 = 1 - sse / sst
+/lustre/software/anaconda/anaconda3-2019.10-py37/envs/pytorch-gpu-1.3.1-py37/lib/python3.7/site-packages/numpy/lib/function_base.py:2534: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/lustre/software/anaconda/anaconda3-2019.10-py37/envs/pytorch-gpu-1.3.1-py37/lib/python3.7/site-packages/numpy/lib/function_base.py:2535: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+cgdelete: cannot remove group 'cu270.4484629.mu01': No such file or directory
+cgdelete: cannot remove group 'cu293.4484629.mu01': No such file or directory
+cgdelete: cannot remove group 'cu175.4484629.mu01': No such file or directory

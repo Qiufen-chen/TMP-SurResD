@@ -1,0 +1,8 @@
+sbatch ccmpred_profold.slurm
+sbatch hmm_ccmpred.slurm
+sbatch hmm_ccmpred_profold.slurm
+sbatch hmm_profold.slurm
+sbatch onehot_ccmpred.slurm
+sbatch onehot_ccmpred_profold.slurm
+sbatch onehot_hmm_ccmpred_profold.slurm
+sbatch onehot_profold.slurm

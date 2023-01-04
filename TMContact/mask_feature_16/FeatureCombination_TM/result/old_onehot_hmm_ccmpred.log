@@ -1,0 +1,306 @@
+Trian Data: 633   Validation Data: 211  Test Data: 212
+[1, 1]
+[1, 1]
+[1, 1]
+[1, 1]
+model SENet(
+  (conv1): Conv2d(101, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (layer1): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+  )
+  (layer2): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+  )
+  (layer3): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+  )
+  (layer4): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+      (fc1): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1))
+      (fc2): Conv2d(4, 64, kernel_size=(1, 1), stride=(1, 1))
+    )
+  )
+  (cnn): CNNnet(
+    (conv1): Sequential(
+      (0): Conv2d(64, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU()
+    )
+    (conv2): Sequential(
+      (0): Conv2d(32, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU()
+    )
+    (conv3): Sequential(
+      (0): Conv2d(16, 1, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (1): BatchNorm2d(1, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU()
+    )
+  )
+)
+Epoch  0, trian_loss: 0.0074, trian_mae: 0.0883, trian_mse:0.0149, trian_r2: -15.4562, trian_cc: 0.1829
+Epoch  0, val_loss: 0.0066, val_mae: 0.0900, val_mse: 0.0132, val_r2: -19.6294, val_cc: 0.1773
+Epoch  1, trian_loss: 0.0058, trian_mae: 0.0829, trian_mse:0.0117, trian_r2: -316.5497, trian_cc: 0.1345
+Epoch  1, val_loss: 0.0057, val_mae: 0.0821, val_mse: 0.0115, val_r2: -205.3868, val_cc: 0.1586
+Epoch  2, trian_loss: 0.0058, trian_mae: 0.0825, trian_mse:0.0116, trian_r2: -189.7651, trian_cc: 0.1673
+Epoch  2, val_loss: 0.0057, val_mae: 0.0821, val_mse: 0.0114, val_r2: -177.9218, val_cc: 0.1738
+Epoch  3, trian_loss: 0.0058, trian_mae: 0.0824, trian_mse:0.0115, trian_r2: -184.0711, trian_cc: 0.1828
+Epoch  3, val_loss: 0.0057, val_mae: 0.0820, val_mse: 0.0114, val_r2: -226.2168, val_cc: 0.1903
+Epoch  4, trian_loss: 0.0057, trian_mae: 0.0822, trian_mse:0.0115, trian_r2: -175.8898, trian_cc: 0.1975
+Epoch  4, val_loss: 0.0057, val_mae: 0.0819, val_mse: 0.0114, val_r2: -155.3235, val_cc: 0.2018
+Epoch  5, trian_loss: 0.0057, trian_mae: 0.0819, trian_mse:0.0114, trian_r2: -138.0062, trian_cc: 0.2116
+Epoch  5, val_loss: 0.0058, val_mae: 0.0815, val_mse: 0.0115, val_r2: -322.3377, val_cc: 0.1208
+Epoch  6, trian_loss: 0.0057, trian_mae: 0.0814, trian_mse:0.0113, trian_r2: -97.6797, trian_cc: 0.2265
+Epoch  6, val_loss: 0.0056, val_mae: 0.0813, val_mse: 0.0112, val_r2: -51.0529, val_cc: 0.2351
+Epoch  7, trian_loss: 0.0056, trian_mae: 0.0807, trian_mse:0.0112, trian_r2: -63.9728, trian_cc: 0.2424
+Epoch  7, val_loss: 0.0055, val_mae: 0.0804, val_mse: 0.0111, val_r2: -30.0752, val_cc: 0.2478
+Epoch  8, trian_loss: 0.0056, trian_mae: 0.0803, trian_mse:0.0112, trian_r2: -55.2619, trian_cc: 0.2499
+Epoch  8, val_loss: 0.0055, val_mae: 0.0800, val_mse: 0.0111, val_r2: -25.8855, val_cc: 0.2500
+Epoch  9, trian_loss: 0.0055, trian_mae: 0.0800, trian_mse:0.0111, trian_r2: -46.8599, trian_cc: 0.2558
+Epoch  9, val_loss: 0.0055, val_mae: 0.0798, val_mse: 0.0110, val_r2: -29.8912, val_cc: 0.2590
+Epoch 10, trian_loss: 0.0057, trian_mae: 0.0814, trian_mse:0.0114, trian_r2: -174.5470, trian_cc: 0.1965
+Epoch 10, val_loss: 0.0057, val_mae: 0.0817, val_mse: 0.0114, val_r2: -149.4597, val_cc: 0.1713
+Epoch 11, trian_loss: 0.0056, trian_mae: 0.0809, trian_mse:0.0113, trian_r2: -93.7399, trian_cc: 0.2185
+Epoch 11, val_loss: 0.0055, val_mae: 0.0800, val_mse: 0.0111, val_r2: -30.3167, val_cc: 0.2466
+Epoch 12, trian_loss: 0.0056, trian_mae: 0.0801, trian_mse:0.0111, trian_r2: -50.6858, trian_cc: 0.2519
+Epoch 12, val_loss: 0.0055, val_mae: 0.0796, val_mse: 0.0110, val_r2: -22.7276, val_cc: 0.2609
+Epoch 13, trian_loss: 0.0055, trian_mae: 0.0798, trian_mse:0.0111, trian_r2: -46.8564, trian_cc: 0.2617
+Epoch 13, val_loss: 0.0055, val_mae: 0.0798, val_mse: 0.0110, val_r2: -24.3219, val_cc: 0.2635
+Epoch 14, trian_loss: 0.0055, trian_mae: 0.0794, trian_mse:0.0110, trian_r2: -42.9256, trian_cc: 0.2683
+Epoch 14, val_loss: 0.0054, val_mae: 0.0785, val_mse: 0.0109, val_r2: -24.2584, val_cc: 0.2757
+Epoch 15, trian_loss: 0.0055, trian_mae: 0.0790, trian_mse:0.0109, trian_r2: -41.3817, trian_cc: 0.2760
+Epoch 15, val_loss: 0.0054, val_mae: 0.0782, val_mse: 0.0108, val_r2: -22.2706, val_cc: 0.2786
+Epoch 16, trian_loss: 0.0054, trian_mae: 0.0786, trian_mse:0.0109, trian_r2: -38.6509, trian_cc: 0.2809
+Epoch 16, val_loss: 0.0054, val_mae: 0.0779, val_mse: 0.0107, val_r2: -25.2689, val_cc: 0.2864
+Epoch 17, trian_loss: 0.0055, trian_mae: 0.0787, trian_mse:0.0109, trian_r2: -38.2593, trian_cc: 0.2839
+Epoch 17, val_loss: 0.0054, val_mae: 0.0784, val_mse: 0.0108, val_r2: -21.0461, val_cc: 0.2828
+Epoch 18, trian_loss: 0.0055, trian_mae: 0.0787, trian_mse:0.0109, trian_r2: -39.7797, trian_cc: 0.2777
+Epoch 18, val_loss: 0.0054, val_mae: 0.0781, val_mse: 0.0107, val_r2: -23.4143, val_cc: 0.2917
+Epoch 19, trian_loss: 0.0054, trian_mae: 0.0783, trian_mse:0.0109, trian_r2: -35.2898, trian_cc: 0.2883
+Epoch 19, val_loss: 0.0053, val_mae: 0.0777, val_mse: 0.0107, val_r2: -26.2311, val_cc: 0.2919
+Epoch 20, trian_loss: 0.0054, trian_mae: 0.0783, trian_mse:0.0109, trian_r2: -38.9994, trian_cc: 0.2853
+Epoch 20, val_loss: 0.0054, val_mae: 0.0778, val_mse: 0.0107, val_r2: -23.9071, val_cc: 0.2915
+Epoch 21, trian_loss: 0.0054, trian_mae: 0.0777, trian_mse:0.0108, trian_r2: -34.3274, trian_cc: 0.2995
+Epoch 21, val_loss: 0.0054, val_mae: 0.0784, val_mse: 0.0108, val_r2: -35.3132, val_cc: 0.2888
+Epoch 22, trian_loss: 0.0053, trian_mae: 0.0771, trian_mse:0.0106, trian_r2: -30.6365, trian_cc: 0.3182
+Epoch 22, val_loss: 0.0054, val_mae: 0.0783, val_mse: 0.0108, val_r2: -31.4639, val_cc: 0.2917
+Epoch 23, trian_loss: 0.0053, trian_mae: 0.0772, trian_mse:0.0107, trian_r2: -33.1491, trian_cc: 0.3173
+Epoch 23, val_loss: 0.0050, val_mae: 0.0733, val_mse: 0.0101, val_r2: -11.2451, val_cc: 0.3879
+Epoch 24, trian_loss: 0.0051, trian_mae: 0.0740, trian_mse:0.0102, trian_r2: -15.4506, trian_cc: 0.3950
+Epoch 24, val_loss: 0.0051, val_mae: 0.0749, val_mse: 0.0102, val_r2: -23.4209, val_cc: 0.3635
+Epoch 25, trian_loss: 0.0050, trian_mae: 0.0729, trian_mse:0.0100, trian_r2: -14.2657, trian_cc: 0.4178
+Epoch 25, val_loss: 0.0050, val_mae: 0.0728, val_mse: 0.0099, val_r2: -13.4986, val_cc: 0.4084
+Epoch 26, trian_loss: 0.0049, trian_mae: 0.0720, trian_mse:0.0098, trian_r2: -13.2800, trian_cc: 0.4352
+Epoch 26, val_loss: 0.0048, val_mae: 0.0706, val_mse: 0.0096, val_r2: -5.9697, val_cc: 0.4411
+Epoch 27, trian_loss: 0.0050, trian_mae: 0.0730, trian_mse:0.0100, trian_r2: -25.4188, trian_cc: 0.4119
+Epoch 27, val_loss: 0.0055, val_mae: 0.0787, val_mse: 0.0109, val_r2: -47.1412, val_cc: 0.2617
+Epoch 28, trian_loss: 0.0053, trian_mae: 0.0767, trian_mse:0.0106, trian_r2: -37.1621, trian_cc: 0.3228
+Epoch 28, val_loss: 0.0050, val_mae: 0.0738, val_mse: 0.0101, val_r2: -13.3001, val_cc: 0.3865
+Epoch 29, trian_loss: 0.0049, trian_mae: 0.0714, trian_mse:0.0097, trian_r2: -11.0097, trian_cc: 0.4443
+Epoch 29, val_loss: 0.0047, val_mae: 0.0695, val_mse: 0.0094, val_r2: -5.5720, val_cc: 0.4610
+Epoch 30, trian_loss: 0.0048, trian_mae: 0.0706, trian_mse:0.0096, trian_r2: -8.3904, trian_cc: 0.4553
+Epoch 30, val_loss: 0.0046, val_mae: 0.0691, val_mse: 0.0093, val_r2: -5.7751, val_cc: 0.4644
+Epoch 31, trian_loss: 0.0047, trian_mae: 0.0703, trian_mse:0.0095, trian_r2: -7.3110, trian_cc: 0.4611
+Epoch 31, val_loss: 0.0047, val_mae: 0.0699, val_mse: 0.0094, val_r2: -7.4317, val_cc: 0.4646
+Epoch 32, trian_loss: 0.0048, trian_mae: 0.0705, trian_mse:0.0095, trian_r2: -6.7545, trian_cc: 0.4602
+Epoch 32, val_loss: 0.0055, val_mae: 0.0790, val_mse: 0.0109, val_r2: -37.9294, val_cc: 0.3165
+Epoch 33, trian_loss: 0.0048, trian_mae: 0.0712, trian_mse:0.0096, trian_r2: -9.0397, trian_cc: 0.4440
+Epoch 33, val_loss: 0.0046, val_mae: 0.0680, val_mse: 0.0091, val_r2: -4.9018, val_cc: 0.4745
+Epoch 34, trian_loss: 0.0047, trian_mae: 0.0703, trian_mse:0.0094, trian_r2: -9.0726, trian_cc: 0.4552
+Epoch 34, val_loss: 0.0046, val_mae: 0.0691, val_mse: 0.0093, val_r2: -6.7883, val_cc: 0.4699
+Epoch 35, trian_loss: 0.0047, trian_mae: 0.0698, trian_mse:0.0094, trian_r2: -8.0719, trian_cc: 0.4639
+Epoch 35, val_loss: 0.0045, val_mae: 0.0679, val_mse: 0.0090, val_r2: -6.3506, val_cc: 0.4782
+Epoch 36, trian_loss: 0.0046, trian_mae: 0.0693, trian_mse:0.0092, trian_r2: -5.8625, trian_cc: 0.4713
+Epoch 36, val_loss: 0.0045, val_mae: 0.0677, val_mse: 0.0090, val_r2: -6.0622, val_cc: 0.4807
+Epoch 37, trian_loss: 0.0046, trian_mae: 0.0691, trian_mse:0.0092, trian_r2: -4.8431, trian_cc: 0.4776
+Epoch 37, val_loss: 0.0045, val_mae: 0.0675, val_mse: 0.0089, val_r2: -4.2252, val_cc: 0.4820
+Epoch 38, trian_loss: 0.0046, trian_mae: 0.0691, trian_mse:0.0092, trian_r2: -4.7378, trian_cc: 0.4762
+Epoch 38, val_loss: 0.0044, val_mae: 0.0675, val_mse: 0.0089, val_r2: -3.7925, val_cc: 0.4873
+Epoch 39, trian_loss: 0.0045, trian_mae: 0.0682, trian_mse:0.0090, trian_r2: -4.1767, trian_cc: 0.4861
+Epoch 39, val_loss: 0.0044, val_mae: 0.0672, val_mse: 0.0089, val_r2: -4.5075, val_cc: 0.4866
+Epoch 40, trian_loss: 0.0045, trian_mae: 0.0683, trian_mse:0.0090, trian_r2: -4.6275, trian_cc: 0.4846
+Epoch 40, val_loss: 0.0046, val_mae: 0.0684, val_mse: 0.0092, val_r2: -7.4464, val_cc: 0.4745
+Epoch 41, trian_loss: 0.0045, trian_mae: 0.0686, trian_mse:0.0091, trian_r2: -4.6046, trian_cc: 0.4841
+Epoch 41, val_loss: 0.0044, val_mae: 0.0668, val_mse: 0.0088, val_r2: -5.4637, val_cc: 0.4923
+Epoch 42, trian_loss: 0.0047, trian_mae: 0.0696, trian_mse:0.0093, trian_r2: -9.5148, trian_cc: 0.4583
+Epoch 42, val_loss: 0.0044, val_mae: 0.0664, val_mse: 0.0087, val_r2: -4.8898, val_cc: 0.4952
+Epoch 43, trian_loss: 0.0045, trian_mae: 0.0682, trian_mse:0.0090, trian_r2: -4.5092, trian_cc: 0.4907
+Epoch 43, val_loss: 0.0043, val_mae: 0.0665, val_mse: 0.0087, val_r2: -4.0284, val_cc: 0.4974
+Epoch 44, trian_loss: 0.0045, trian_mae: 0.0677, trian_mse:0.0089, trian_r2: -4.4723, trian_cc: 0.4937
+Epoch 44, val_loss: 0.0043, val_mae: 0.0662, val_mse: 0.0087, val_r2: -3.9506, val_cc: 0.4978
+Epoch 45, trian_loss: 0.0045, trian_mae: 0.0684, trian_mse:0.0091, trian_r2: -7.1161, trian_cc: 0.4778
+Epoch 45, val_loss: 0.0043, val_mae: 0.0662, val_mse: 0.0087, val_r2: -4.0374, val_cc: 0.4992
+Epoch 46, trian_loss: 0.0044, trian_mae: 0.0676, trian_mse:0.0089, trian_r2: -3.9709, trian_cc: 0.4964
+Epoch 46, val_loss: 0.0044, val_mae: 0.0662, val_mse: 0.0087, val_r2: -5.0952, val_cc: 0.5022
+Epoch 47, trian_loss: 0.0044, trian_mae: 0.0672, trian_mse:0.0088, trian_r2: -3.7578, trian_cc: 0.5033
+Epoch 47, val_loss: 0.0043, val_mae: 0.0656, val_mse: 0.0085, val_r2: -4.4175, val_cc: 0.5086
+Epoch 48, trian_loss: 0.0044, trian_mae: 0.0671, trian_mse:0.0088, trian_r2: -3.5588, trian_cc: 0.5051
+Epoch 48, val_loss: 0.0043, val_mae: 0.0658, val_mse: 0.0087, val_r2: -3.6677, val_cc: 0.5046
+Epoch 49, trian_loss: 0.0045, trian_mae: 0.0679, trian_mse:0.0089, trian_r2: -5.2987, trian_cc: 0.4892
+Epoch 49, val_loss: 0.0044, val_mae: 0.0664, val_mse: 0.0087, val_r2: -4.6301, val_cc: 0.4950
+Epoch 50, trian_loss: 0.0044, trian_mae: 0.0673, trian_mse:0.0088, trian_r2: -4.5549, trian_cc: 0.4983
+Epoch 50, val_loss: 0.0043, val_mae: 0.0655, val_mse: 0.0086, val_r2: -3.8816, val_cc: 0.5103
+Epoch 51, trian_loss: 0.0044, trian_mae: 0.0671, trian_mse:0.0088, trian_r2: -3.9968, trian_cc: 0.5030
+Epoch 51, val_loss: 0.0043, val_mae: 0.0659, val_mse: 0.0086, val_r2: -4.3969, val_cc: 0.4999
+Epoch 52, trian_loss: 0.0045, trian_mae: 0.0676, trian_mse:0.0089, trian_r2: -6.2610, trian_cc: 0.4924
+Epoch 52, val_loss: 0.0043, val_mae: 0.0656, val_mse: 0.0085, val_r2: -2.9095, val_cc: 0.5144
+Epoch 53, trian_loss: 0.0044, trian_mae: 0.0670, trian_mse:0.0087, trian_r2: -4.2829, trian_cc: 0.5054
+Epoch 53, val_loss: 0.0042, val_mae: 0.0652, val_mse: 0.0085, val_r2: -3.5089, val_cc: 0.5125
+Epoch 54, trian_loss: 0.0043, trian_mae: 0.0665, trian_mse:0.0086, trian_r2: -3.3848, trian_cc: 0.5119
+Epoch 54, val_loss: 0.0042, val_mae: 0.0650, val_mse: 0.0085, val_r2: -3.5660, val_cc: 0.5147
+Epoch 55, trian_loss: 0.0043, trian_mae: 0.0666, trian_mse:0.0086, trian_r2: -3.9686, trian_cc: 0.5087
+Epoch 55, val_loss: 0.0042, val_mae: 0.0650, val_mse: 0.0084, val_r2: -3.4870, val_cc: 0.5156
+Epoch 56, trian_loss: 0.0043, trian_mae: 0.0667, trian_mse:0.0086, trian_r2: -3.7517, trian_cc: 0.5070
+Epoch 56, val_loss: 0.0042, val_mae: 0.0649, val_mse: 0.0084, val_r2: -3.1894, val_cc: 0.5179
+Epoch 57, trian_loss: 0.0043, trian_mae: 0.0663, trian_mse:0.0086, trian_r2: -3.3842, trian_cc: 0.5147
+Epoch 57, val_loss: 0.0042, val_mae: 0.0647, val_mse: 0.0083, val_r2: -3.4506, val_cc: 0.5192
+Epoch 58, trian_loss: 0.0042, trian_mae: 0.0660, trian_mse:0.0085, trian_r2: -3.2576, trian_cc: 0.5156
+Epoch 58, val_loss: 0.0041, val_mae: 0.0644, val_mse: 0.0083, val_r2: -2.9798, val_cc: 0.5192
+Epoch 59, trian_loss: 0.0043, trian_mae: 0.0663, trian_mse:0.0086, trian_r2: -3.4083, trian_cc: 0.5147
+Epoch 59, val_loss: 0.0042, val_mae: 0.0646, val_mse: 0.0083, val_r2: -3.4152, val_cc: 0.5190
+Epoch 60, trian_loss: 0.0042, trian_mae: 0.0658, trian_mse:0.0084, trian_r2: -3.2924, trian_cc: 0.5177
+Epoch 60, val_loss: 0.0041, val_mae: 0.0643, val_mse: 0.0083, val_r2: -3.2944, val_cc: 0.5209
+Epoch 61, trian_loss: 0.0042, trian_mae: 0.0658, trian_mse:0.0084, trian_r2: -3.2157, trian_cc: 0.5170
+Epoch 61, val_loss: 0.0041, val_mae: 0.0643, val_mse: 0.0082, val_r2: -3.4577, val_cc: 0.5196
+Epoch 62, trian_loss: 0.0042, trian_mae: 0.0659, trian_mse:0.0085, trian_r2: -3.2561, trian_cc: 0.5169
+Epoch 62, val_loss: 0.0042, val_mae: 0.0646, val_mse: 0.0083, val_r2: -3.5866, val_cc: 0.5170
+Epoch 63, trian_loss: 0.0042, trian_mae: 0.0658, trian_mse:0.0085, trian_r2: -3.2957, trian_cc: 0.5177
+Epoch 63, val_loss: 0.0042, val_mae: 0.0646, val_mse: 0.0083, val_r2: -3.2833, val_cc: 0.5180
+Epoch 64, trian_loss: 0.0042, trian_mae: 0.0659, trian_mse:0.0084, trian_r2: -3.3091, trian_cc: 0.5165
+Epoch 64, val_loss: 0.0041, val_mae: 0.0644, val_mse: 0.0082, val_r2: -2.9528, val_cc: 0.5215
+Epoch 65, trian_loss: 0.0042, trian_mae: 0.0657, trian_mse:0.0084, trian_r2: -3.5118, trian_cc: 0.5160
+Epoch 65, val_loss: 0.0041, val_mae: 0.0645, val_mse: 0.0082, val_r2: -3.0802, val_cc: 0.5172
+Epoch 66, trian_loss: 0.0042, trian_mae: 0.0657, trian_mse:0.0084, trian_r2: -3.2959, trian_cc: 0.5171
+Epoch 66, val_loss: 0.0041, val_mae: 0.0645, val_mse: 0.0082, val_r2: -3.5789, val_cc: 0.5204
+Epoch 67, trian_loss: 0.0042, trian_mae: 0.0658, trian_mse:0.0084, trian_r2: -4.7939, trian_cc: 0.5099
+Epoch 67, val_loss: 0.0041, val_mae: 0.0645, val_mse: 0.0082, val_r2: -3.0301, val_cc: 0.5172
+Epoch 68, trian_loss: 0.0042, trian_mae: 0.0659, trian_mse:0.0084, trian_r2: -4.8660, trian_cc: 0.5114
+Epoch 68, val_loss: 0.0041, val_mae: 0.0648, val_mse: 0.0082, val_r2: -3.0715, val_cc: 0.5197
+Epoch 69, trian_loss: 0.0041, trian_mae: 0.0651, trian_mse:0.0082, trian_r2: -3.1236, trian_cc: 0.5199
+Epoch 69, val_loss: 0.0041, val_mae: 0.0641, val_mse: 0.0081, val_r2: -3.0810, val_cc: 0.5217
+Epoch 70, trian_loss: 0.0041, trian_mae: 0.0651, trian_mse:0.0082, trian_r2: -3.0656, trian_cc: 0.5203
+Epoch 70, val_loss: 0.0041, val_mae: 0.0640, val_mse: 0.0081, val_r2: -2.9004, val_cc: 0.5216
+Epoch 71, trian_loss: 0.0041, trian_mae: 0.0650, trian_mse:0.0082, trian_r2: -3.2269, trian_cc: 0.5220
+Epoch 71, val_loss: 0.0040, val_mae: 0.0638, val_mse: 0.0080, val_r2: -3.0496, val_cc: 0.5221
+Epoch 72, trian_loss: 0.0041, trian_mae: 0.0651, trian_mse:0.0082, trian_r2: -3.1758, trian_cc: 0.5201
+Epoch 72, val_loss: 0.0040, val_mae: 0.0637, val_mse: 0.0080, val_r2: -3.1937, val_cc: 0.5198
+Epoch 73, trian_loss: 0.0041, trian_mae: 0.0651, trian_mse:0.0082, trian_r2: -3.0792, trian_cc: 0.5209
+Epoch 73, val_loss: 0.0040, val_mae: 0.0636, val_mse: 0.0079, val_r2: -2.6497, val_cc: 0.5217
+Epoch 74, trian_loss: 0.0041, trian_mae: 0.0653, trian_mse:0.0082, trian_r2: -3.8115, trian_cc: 0.5167
+Epoch 74, val_loss: 0.0042, val_mae: 0.0651, val_mse: 0.0084, val_r2: -3.2374, val_cc: 0.5207
+Epoch 75, trian_loss: 0.0042, trian_mae: 0.0653, trian_mse:0.0083, trian_r2: -2.9405, trian_cc: 0.5188
+Epoch 75, val_loss: 0.0040, val_mae: 0.0637, val_mse: 0.0079, val_r2: -2.4050, val_cc: 0.5235
+Epoch 76, trian_loss: 0.0041, trian_mae: 0.0649, trian_mse:0.0082, trian_r2: -3.0947, trian_cc: 0.5193
+Epoch 76, val_loss: 0.0040, val_mae: 0.0643, val_mse: 0.0081, val_r2: -3.0439, val_cc: 0.5221
+Epoch 77, trian_loss: 0.0041, trian_mae: 0.0649, trian_mse:0.0082, trian_r2: -3.0656, trian_cc: 0.5199
+Epoch 77, val_loss: 0.0040, val_mae: 0.0643, val_mse: 0.0081, val_r2: -2.6248, val_cc: 0.5206
+Epoch 78, trian_loss: 0.0040, trian_mae: 0.0648, trian_mse:0.0081, trian_r2: -3.0746, trian_cc: 0.5211
+Epoch 78, val_loss: 0.0039, val_mae: 0.0638, val_mse: 0.0079, val_r2: -2.7188, val_cc: 0.5253
+Epoch 79, trian_loss: 0.0041, trian_mae: 0.0651, trian_mse:0.0081, trian_r2: -3.1426, trian_cc: 0.5206
+Epoch 79, val_loss: 0.0040, val_mae: 0.0647, val_mse: 0.0080, val_r2: -1.9548, val_cc: 0.5222
+Epoch 80, trian_loss: 0.0040, trian_mae: 0.0646, trian_mse:0.0080, trian_r2: -3.0260, trian_cc: 0.5218
+Epoch 80, val_loss: 0.0039, val_mae: 0.0635, val_mse: 0.0079, val_r2: -2.4908, val_cc: 0.5264
+Epoch 81, trian_loss: 0.0040, trian_mae: 0.0646, trian_mse:0.0080, trian_r2: -3.1425, trian_cc: 0.5208
+Epoch 81, val_loss: 0.0039, val_mae: 0.0637, val_mse: 0.0078, val_r2: -2.3551, val_cc: 0.5238
+Epoch 82, trian_loss: 0.0040, trian_mae: 0.0646, trian_mse:0.0080, trian_r2: -3.1922, trian_cc: 0.5207
+Epoch 82, val_loss: 0.0039, val_mae: 0.0635, val_mse: 0.0078, val_r2: -2.0750, val_cc: 0.5262
+Epoch 83, trian_loss: 0.0040, trian_mae: 0.0650, trian_mse:0.0081, trian_r2: -4.2670, trian_cc: 0.5165
+Epoch 83, val_loss: 0.0040, val_mae: 0.0641, val_mse: 0.0079, val_r2: -2.6389, val_cc: 0.5215
+Epoch 84, trian_loss: 0.0040, trian_mae: 0.0644, trian_mse:0.0079, trian_r2: -3.1809, trian_cc: 0.5216
+Epoch 84, val_loss: 0.0039, val_mae: 0.0636, val_mse: 0.0078, val_r2: -2.8301, val_cc: 0.5264
+Epoch 85, trian_loss: 0.0039, trian_mae: 0.0642, trian_mse:0.0079, trian_r2: -3.0933, trian_cc: 0.5253
+Epoch 85, val_loss: 0.0038, val_mae: 0.0630, val_mse: 0.0077, val_r2: -2.2282, val_cc: 0.5283
+Epoch 86, trian_loss: 0.0039, trian_mae: 0.0643, trian_mse:0.0079, trian_r2: -2.9734, trian_cc: 0.5249
+Epoch 86, val_loss: 0.0039, val_mae: 0.0639, val_mse: 0.0077, val_r2: -1.8580, val_cc: 0.5255
+Epoch 87, trian_loss: 0.0040, trian_mae: 0.0645, trian_mse:0.0079, trian_r2: -3.0460, trian_cc: 0.5206
+Epoch 87, val_loss: 0.0039, val_mae: 0.0631, val_mse: 0.0077, val_r2: -2.3644, val_cc: 0.5283
+Epoch 88, trian_loss: 0.0039, trian_mae: 0.0640, trian_mse:0.0078, trian_r2: -3.0878, trian_cc: 0.5234
+Epoch 88, val_loss: 0.0038, val_mae: 0.0636, val_mse: 0.0077, val_r2: -2.1335, val_cc: 0.5263
+Epoch 89, trian_loss: 0.0039, trian_mae: 0.0639, trian_mse:0.0078, trian_r2: -3.0246, trian_cc: 0.5259
+Epoch 89, val_loss: 0.0038, val_mae: 0.0636, val_mse: 0.0077, val_r2: -1.6852, val_cc: 0.5280
+Epoch 90, trian_loss: 0.0039, trian_mae: 0.0639, trian_mse:0.0078, trian_r2: -3.1505, trian_cc: 0.5265
+Epoch 90, val_loss: 0.0038, val_mae: 0.0631, val_mse: 0.0076, val_r2: -2.1494, val_cc: 0.5274
+Epoch 91, trian_loss: 0.0039, trian_mae: 0.0636, trian_mse:0.0077, trian_r2: -3.3059, trian_cc: 0.5265
+Epoch 91, val_loss: 0.0038, val_mae: 0.0633, val_mse: 0.0077, val_r2: -2.9654, val_cc: 0.5283
+Epoch 92, trian_loss: 0.0041, trian_mae: 0.0660, trian_mse:0.0083, trian_r2: -7.4063, trian_cc: 0.4941
+Epoch 92, val_loss: 0.0040, val_mae: 0.0636, val_mse: 0.0079, val_r2: -2.2379, val_cc: 0.5251
+Epoch 93, trian_loss: 0.0039, trian_mae: 0.0638, trian_mse:0.0077, trian_r2: -3.0359, trian_cc: 0.5283
+Epoch 93, val_loss: 0.0039, val_mae: 0.0642, val_mse: 0.0077, val_r2: -1.7542, val_cc: 0.5255
+Epoch 94, trian_loss: 0.0042, trian_mae: 0.0662, trian_mse:0.0083, trian_r2: -11.3673, trian_cc: 0.4864
+Epoch 94, val_loss: 0.0038, val_mae: 0.0634, val_mse: 0.0076, val_r2: -2.2153, val_cc: 0.5277
+Epoch 95, trian_loss: 0.0038, trian_mae: 0.0635, trian_mse:0.0077, trian_r2: -3.2448, trian_cc: 0.5271
+Epoch 95, val_loss: 0.0038, val_mae: 0.0625, val_mse: 0.0075, val_r2: -1.9124, val_cc: 0.5327
+Epoch 96, trian_loss: 0.0038, trian_mae: 0.0631, trian_mse:0.0076, trian_r2: -3.0737, trian_cc: 0.5310
+Epoch 96, val_loss: 0.0037, val_mae: 0.0620, val_mse: 0.0074, val_r2: -2.2722, val_cc: 0.5344
+Epoch 97, trian_loss: 0.0039, trian_mae: 0.0640, trian_mse:0.0078, trian_r2: -3.2982, trian_cc: 0.5252
+Epoch 97, val_loss: 0.0038, val_mae: 0.0635, val_mse: 0.0076, val_r2: -1.5913, val_cc: 0.5297
+Epoch 98, trian_loss: 0.0038, trian_mae: 0.0633, trian_mse:0.0076, trian_r2: -2.9876, trian_cc: 0.5291
+Epoch 98, val_loss: 0.0037, val_mae: 0.0628, val_mse: 0.0075, val_r2: -2.3254, val_cc: 0.5317
+Epoch 99, trian_loss: 0.0038, trian_mae: 0.0631, trian_mse:0.0076, trian_r2: -2.8757, trian_cc: 0.5313
+Epoch 99, val_loss: 0.0037, val_mae: 0.0633, val_mse: 0.0075, val_r2: -2.0320, val_cc: 0.5332

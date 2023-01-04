@@ -1,0 +1,5 @@
+hmm_ccmpred_train_10.py:43: RuntimeWarning: invalid value encountered in double_scalars
+  pcc = (n*sum_xy-sum_x*sum_y)/np.sqrt((n*sum_x2-sum_x*sum_x)*(n*sum_y2-sum_y*sum_y))
+cgdelete: cannot remove group 'cu230.4491827.mu01': No such file or directory
+cgdelete: cannot remove group 'cu256.4491827.mu01': No such file or directory
+cgdelete: cannot remove group 'cu185.4491827.mu01': No such file or directory

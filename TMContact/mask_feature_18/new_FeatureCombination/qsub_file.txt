@@ -1,0 +1,8 @@
+qsub ccmpred_profold.pbs
+qsub hmm_ccmpred.pbs
+qsub hmm_ccmpred_profold.pbs
+qsub hmm_profold.pbs
+qsub onehot_ccmpred.pbs
+qsub onehot_ccmpred_profold.pbs
+qsub onehot_hmm_ccmpred_profold.pbs
+qsub onehot_profold.pbs
