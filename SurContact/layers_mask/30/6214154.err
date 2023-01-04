@@ -1,0 +1,4 @@
+/lustre/slurm/spool/slurm/d/job6214154/slurm_script: line 24: 45691 Bus error               python hmm_ccmpred_train.py > hmm_ccmpred.log
+/lustre/slurm/spool/slurm/d/job6214154/slurm_script: line 26: echo: write error: Input/output error
+/lustre/slurm/spool/slurm/d/job6214154/slurm_script: line 27: echo: write error: Input/output error
+date: write error: Input/output error
